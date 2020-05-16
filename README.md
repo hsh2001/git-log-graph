@@ -1,6 +1,10 @@
-Just do it!
-
+# Install
 ```sh
-npx glgh [branch-name: optional]
+npm i -g glgh #may need sudo
+```
+
+# Show git log with garph
+```sh
+glgh [branch-name: optional]
 # default branch name is master
 ```
