@@ -1,5 +1,6 @@
 Just do it!
 
-```
-npx git-log-graph
+```sh
+npx glgh [branch-name: optional]
+# default branch name is master
 ```
